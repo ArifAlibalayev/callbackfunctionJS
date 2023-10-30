@@ -71,6 +71,14 @@ const array = [3, 7, 12, 34, 21, 64, 48, 13]
 //     return number % 2 !== 0;
 // });
 
+// function sumArray(array) {
+//     let sum = 0;
+//     for (let i = 0; i < array.length; i++) {
+//         sum += array[i];
+//     }
+//     return sum;
+
+// }
 
 // const sumOfEvenNumbers = sumArray(evens);
 // const sumOfOddNumbers = sumArray(odds);
@@ -104,10 +112,3 @@ const array = [3, 7, 12, 34, 21, 64, 48, 13]
 
 // console.log(OddEven(array));
 
-// function sumArray(array) {
-//     let sum = 0;
-//     for (let i = 0; i < array.length; i++) {
-//         sum += array[i];
-//     }
-//     return sum;
-// }
